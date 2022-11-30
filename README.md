@@ -9,6 +9,8 @@ Send automation data to its Input, map up to eight automation destinations, and 
 * *Rate* - The delay frequency or interval (free or sync'd).
 * *Feedback* - The amount of the output signal to mix into the input.
 
+Or try mapping a MIDI controller to Input and have a freestyle jam into an automation echo chamber. To start, try mapping to a low-pass filter cutoff on a pad sound (e.g. the Wavetable preset named "Spacey Ambient Pad").
+
 Here is an image of a Shaper device sending a signal to AutomationDelay, where it creates echoes of the input.
 ![How it Looks](images/device.png)
 
