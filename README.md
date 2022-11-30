@@ -12,6 +12,8 @@ Send automation data to its Input, map up to eight automation destinations, and 
 Here is an image of a Shaper device sending a signal to AutomationDelay, where it creates echoes of the input.
 ![How it Looks](images/device.png)
 
+The device plots the input signal in grey, the delay signal in light blue, the feedback signal in dark blue, and the output signal in orange.
+
 ## Installation
 
 [Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/tree/main/frozen/) or clone this repository, and drag the `AutomationDelay.amxd` device into a track in Ableton Live.
