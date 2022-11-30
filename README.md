@@ -6,7 +6,7 @@ Send automation data to its Input, map up to eight automation destinations, and 
 
 * *Dry* - The level of the dry (input) automation signal in the final output.
 * *Send* - The level of the input signal to send to the delay circuit.
-* *Delay* - The delay time.
+* *Rate* - The delay frequency or interval (free or sync'd).
 * *Feedback* - The amount of the output signal to mix into the input.
 
 Here is an image of a Shaper device sending a signal to AutomationDelay, where it creates echoes of the input.
