@@ -20,6 +20,7 @@ The device plots the input signal in grey, the delay signal in light blue, the f
 
 ## Changelog
 
+* 2022-11-30 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.2.amxd) - Added tempo sync option.
 * 2022-11-29 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.1.amxd) - Initial release.
 
 ## TODO
