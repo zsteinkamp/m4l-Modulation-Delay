@@ -20,7 +20,7 @@ The device plots the input signal in grey, the delay signal in light blue, the f
 
 ## Changelog
 
-* 2022-11-29 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay.0.1.amxd) - Initial release.
+* 2022-11-29 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.1.amxd) - Initial release.
 
 ## TODO
 
