@@ -12,7 +12,7 @@ Send modulation data to its Input, map up to eight destinations, and play with t
 Or try mapping a MIDI controller to Input and have a freestyle jam into an modulation echo chamber. To start, try mapping to a low-pass filter cutoff on a pad sound (e.g. the Wavetable preset named "Spacey Ambient Pad").
 
 Here is an image of a Shaper device sending a signal to Modulation Delay, where it creates echoes of the input.
-![How it Looks](images/device.png)
+![How it Looks](images/device.gif)
 
 The device plots the input signal in grey, the delay signal in light blue, the feedback signal in dark blue, and the output signal in orange.
 
