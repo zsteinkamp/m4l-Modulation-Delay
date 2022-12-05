@@ -18,11 +18,11 @@ The device plots the input signal in grey, the delay signal in light blue, the f
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v2.amxd) or clone this repository, and drag the `Modulation Delay.amxd` device into a track in Ableton Live.
+[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v3.amxd) or clone this repository, and drag the `Modulation Delay.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
-* 2022-12-05 [3](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v2.amxd) - Rename to Modulation Delay; Use integer version numbers.
+* 2022-12-05 [3](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v3.amxd) - Rename to Modulation Delay; Use integer version numbers.
 * 2022-11-30 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.2.amxd) - Added tempo sync option.
 * 2022-11-29 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.1.amxd) - Initial release.
 
