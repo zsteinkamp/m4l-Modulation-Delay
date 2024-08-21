@@ -2,6 +2,8 @@
 
 Take what you know about audio delays and apply it to modulation signals! Modulation Delay is a Max For Live device that can affect a modulation signal in the same way a feedbacking delay effect can turn sound into echoes.
 
+[Video showing it in action.](https://www.youtube.com/watch?v=YfRTARPEUME)
+
 Send modulation data to its Input, map up to eight destinations, and play with the controls to get interesting to wild results.
 
 * *Dry* - The level of the dry (input) modulation signal in the final output.
