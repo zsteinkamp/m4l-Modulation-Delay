@@ -22,6 +22,8 @@ The device plots the input signal in grey, the delay signal in light blue, the f
 
 [Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/) or clone this repository, and drag the `Modulation Delay.amxd` device into a track in Ableton Live.
 
+Note: If you want to open and edit the non-frozen device, you will need to have [zs.mapper](https://github.com/zsteinkamp/m4l-zs.mapper) installed. [Follow the installation instructions](https://github.com/zsteinkamp/m4l-zs.mapper) there.
+
 ## Changelog
 
 * 2024-08-17 [v4](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v4.amxd) - Support for Live 12's new modulation mode; Visual improvments.
