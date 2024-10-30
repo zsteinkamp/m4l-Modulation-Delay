@@ -26,7 +26,8 @@ Note: If you want to open and edit the non-frozen device, you will need to have 
 
 ## Changelog
 
-* 2024-08-17 [v4](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v4.amxd) - Support for Live 12's new modulation mode; Visual improvments.
+* 2024-10-29 [v5](https://github.com/zsteinkamp/m4l-Modulation-Delay/releases/download/v5/ModulationDelay-v5.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
+* 2024-08-17 [v4](https://github.com/zsteinkamp/m4l-Modulation-Delay/releases/download/v4/Modulation.Delay.v4.amxd) - Support for Live 12's new modulation mode; Visual improvments.
 * 2022-12-05 [v3](https://github.com/zsteinkamp/m4l-Modulation-Delay/raw/main/frozen/Modulation%20Delay%20v3.amxd) - Rename to Modulation Delay; Use integer version numbers.
 * 2022-11-30 [0.0.2](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.2.amxd) - Added tempo sync option.
 * 2022-11-29 [0.0.1](https://github.com/zsteinkamp/m4l-zs-AutomationDelay/raw/main/frozen/AutomationDelay-0.0.1.amxd) - Initial release.
