@@ -2,6 +2,9 @@
 
 Take what you know about audio delays and apply it to modulation signals! Modulation Delay is a Max For Live device that can affect a modulation signal in the same way a feedbacking delay effect can turn sound into echoes.
 
+Here is an image of a Shaper device modulating Modulation Delay, where it creates echoes of the input.
+![How it Looks](images/device.gif)
+
 [Video showing it in action.](https://www.youtube.com/watch?v=YfRTARPEUME)
 
 Send modulation data to its Input, map up to eight destinations, and play with the controls to get interesting to wild results.
@@ -12,9 +15,6 @@ Send modulation data to its Input, map up to eight destinations, and play with t
 * *Feedback* - The amount of the output signal to mix into the input.
 
 Or try mapping a MIDI controller to Input and have a freestyle jam into an modulation echo chamber. To start, try mapping to a low-pass filter cutoff on a pad sound (e.g. the Wavetable preset named "Spacey Ambient Pad").
-
-Here is an image of a Shaper device modulating Modulation Delay, where it creates echoes of the input.
-![How it Looks](images/device.gif)
 
 The device plots the input signal in grey, the delay signal in light blue, the feedback signal in dark blue, and the output signal in orange.
 
